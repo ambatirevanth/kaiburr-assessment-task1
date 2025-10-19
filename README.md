@@ -144,6 +144,9 @@ The application blocks unsafe commands for security reasons.
 - Background processes: `&`  
 
 ## 📸 Screenshots Submission
+<img width="1311" height="494" alt="Screenshot 2025-10-19 094325" src="https://github.com/user-attachments/assets/533a48fd-9080-4497-ae29-50aa969f61be" />
+
+
 <img width="1627" height="931" alt="Screenshot 2025-10-18 002205" src="https://github.com/user-attachments/assets/4b76fa6b-ff30-4af1-b5f2-1678a5bb8dc5" />
 
 <img width="1627" height="931" alt="Screenshot 2025-10-18 002205" src="https://github.com/user-attachments/assets/aae45cd2-2ed0-4301-b141-947146913dbc" />
